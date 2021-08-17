@@ -1,0 +1,16 @@
+{
+  "short_name": "Saifudin Hasan",
+  "name": "Saifudin Hasan Portfolio Web",
+  "icons": [
+    {
+      "src": "saifudin.ico"
+    },
+    {
+      "src": "saifudin.png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
